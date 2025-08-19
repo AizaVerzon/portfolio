@@ -12,7 +12,7 @@
         <!-- Header Section: Profile Picture and Basic Info -->
         <header class="head">
             <div class="profile">
-                <img src="images/img_Aiza1.png" alt="Profile Picture" class="profile-img" />
+                <img src="images/Aiza.psd" alt="Profile Picture" class="profile-img" />
                 <h1>Aiza Laderas Verzon</h1>
                 <p class="tagline">💻 IT Student | Batanes State College</p>
             </div>
